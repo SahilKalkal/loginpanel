@@ -1,0 +1,32 @@
+#hello {
+  visibility: hidden;
+}
+#credit {
+	visibility: hidden;
+}
+#note {
+	visibility: visible;
+}
+#logout{
+  visibility: hidden;
+}
+#success {
+	visibility: hidden;
+}
+
+#email {
+	visibility: visible;
+	margin-left: 40%;
+}
+#pass {
+	visibility: visible;
+	margin-left: 40%;
+}
+#login {
+	visibility: visible;
+	margin-left: 40%;
+}
+#signup {
+	visibility: visible;
+	margin-left: 40%;
+}
